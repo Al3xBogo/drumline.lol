@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Announcements
+description: Announcements for The Drumline Server™
 image:
 
 # Badge style
