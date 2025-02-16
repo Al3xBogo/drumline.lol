@@ -13,12 +13,12 @@ WardenSMP is a **Minecraft Java Edition** server. If you have access to Java Edi
 ## Java Edition
 
 #### (PC/Mac/Linux)
-IP: **drumline.lol**  
+IP: **mc.drumline.lol**  
 Version: 1.18.2-1.21.4 ***(1.21.4 Recommended)***  
 
 ## Bedrock
 
 #### (iPhone/iPad/Windows/Android)
-IP: **drumline.lol**  
+IP: **mc.drumline.lol**  
 Port: **19132**  
 Version: **Latest**  
